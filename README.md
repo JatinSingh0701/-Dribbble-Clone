@@ -8,7 +8,7 @@ This repository contains the code for a Dribbble-like website created using HTML
 
 ## Preview
 
-![Dribbble Clone](<![Alt text](assets/design.jpg)>)
+![Product Preview](![Alt text](assets/design.jpg))
 
 ## Features
 
