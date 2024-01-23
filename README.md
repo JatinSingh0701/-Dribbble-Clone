@@ -21,7 +21,7 @@ This repository contains the code for a Dribbble-like website created using HTML
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Dribbble-Clone.git
+   git clone https://github.com/JatinSingh0701/-Dribbble-Clone.git
    ```
 
 2. Open `index.html` in your preferred web browser.
