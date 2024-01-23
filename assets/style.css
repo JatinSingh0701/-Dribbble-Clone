@@ -232,14 +232,14 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 20px;
+    margin-right: 20vw;
   }
 
   .elem h1 {
     font-size: 24vw;
     white-space: nowrap;
     font-weight: 300;
-    padding-right: 20vw;
+    /* padding-right: 20vw; */
   }
 
   #image-content {
